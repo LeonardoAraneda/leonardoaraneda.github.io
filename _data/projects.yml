@@ -13,7 +13,7 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Aplicacion de administracion de contratos
+- name: Aplicación de administración de contratos
   descr: "Gestion de contratos como la selección por diversas caracteristicas como año de creacion, fecha de termino, Nombre empleado; la presentación de estos; la busqueda por filtros, entre otros"
   #demo: https://example.com/
   tags:
